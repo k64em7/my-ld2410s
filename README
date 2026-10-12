@@ -1,0 +1,1 @@
+This crate was created as a part of my raspberry pi project. Originally, I intended the library to be reusable in embedded platforms such as Embassy or RTIC, but the dependency on the tokio runtime and some synchronization primitives were difficult to strip.
